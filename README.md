@@ -23,5 +23,7 @@ The completed application should meet the following criteria:
 
 ## Link To Deployed Webpage
 
+https://eugeneisingizwe.github.io/Rock-Paper-Scissors-Game/
+
 ## Screen Shot
 ![A user clicks through an interactive Rock, Papar, Scissor game, then enters letters R, P, or P to play agaist an automated oppoent](./Unsolved/image/letsplay-game.png)
